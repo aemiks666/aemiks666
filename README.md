@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm amatroxik</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">Lua & JavaScript Developer</h3>
 
 - 🔭 I’m currently working on **Euphoria**
