@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">Lua & JavaScript Developer & Fivem Car Developer</h3>
+<h3 align="center">Lua & JavaScript Developer & Fivem Developer</h3>
 
 
 - 🌱 I’m currently learning **Python & Java**
